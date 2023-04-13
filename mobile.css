@@ -157,7 +157,7 @@ p {
 button {
     background-color: hsl(224, 30%, 27%);
     width: 60%;
-    height: 5vh;
+    height: 30px;
     border-radius: 25px;
     border: none;
     color: white;
